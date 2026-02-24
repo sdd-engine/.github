@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sdd-engine/sdd-core/main/docs/logo.svg" alt="SDD Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/sdd-engine/sdd-core/main/docs/logo.svg" alt="SDD Logo" width="280" />
 </p>
 
 <h1 align="center">Spec-Driven Development</h1>
