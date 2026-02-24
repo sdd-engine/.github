@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sdd-engine/sdd-core/main/docs/logo.svg" alt="SDD Logo" width="700" />
-</p>
-
 <h1 align="center">Spec-Driven Development</h1>
 
 <p align="center">
